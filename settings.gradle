@@ -1,0 +1,4 @@
+rootProject.name = "JavaIO"
+include ':app'
+include ':io'
+include ':ioi'
